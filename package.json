@@ -1,0 +1,27 @@
+{
+  "name": "panoplanviewinfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "start": "^5.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.0",
+    "three": "^0.84.0"
+  },
+  "scripts": {
+    "test": "mocha --reporter list",
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanemechem/PanoPlanView.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zanemechem/PanoPlanView/issues"
+  },
+  "homepage": "https://github.com/zanemechem/PanoPlanView#readme"
+}
